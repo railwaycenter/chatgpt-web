@@ -1,1 +1,1 @@
-web: pnpm bootstrap
+web: node index.html
