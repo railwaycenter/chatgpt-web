@@ -1,1 +1,1 @@
-web: node src/main.ts
+web: yarn start:production
