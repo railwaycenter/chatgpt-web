@@ -11,6 +11,7 @@
     "vue"
   ],
   "scripts": {
+		"install pnmp":"npm install pnpm -g",
     "dev": "vite",
     "build": "run-p type-check build-only",
     "preview": "vite preview",
